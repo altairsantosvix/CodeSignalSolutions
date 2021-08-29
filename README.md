@@ -32,5 +32,4 @@ The solutions are written in python, java and javascript(Node.Js).
 
 Hope you enjoy!
 
-Altair Santos
 email:altairsantos@gmail.com
