@@ -32,4 +32,4 @@ The solutions are written in python, java, javascript(Node.Js) and ,of course, G
 
 Hope you enjoy!
 
-email:altairsantos@gmail.com
+linkedin: https://bit.ly/3mCKex4
