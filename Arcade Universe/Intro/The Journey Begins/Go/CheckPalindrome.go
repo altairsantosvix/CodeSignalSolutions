@@ -8,3 +8,4 @@ func checkPalindrome(inputString string) bool {
 		lastI--
 	}
 	return true
+}
