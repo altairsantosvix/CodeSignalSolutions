@@ -28,7 +28,7 @@
              #/////////////////////%                                            
                   .#%(((//((#%,   
 
-The solutions are written in python, java and javascript(Node.Js).
+The solutions are written in python, java, javascript(Node.Js) and ,of course, GO.
 
 Hope you enjoy!
 
